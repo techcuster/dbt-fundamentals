@@ -2,7 +2,7 @@ Version: 2
 
 models:
   - name: stg_customers
-  description: staged customer data from our jaffle shop
+  - description: staged customer data from our jaffle shop
     columns: 
       - name: customer_id
         tests:
