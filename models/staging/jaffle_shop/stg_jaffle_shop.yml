@@ -2,13 +2,14 @@ version: 2
 
 models:
   - name: stg_customers
-    descritpion: this is test. 
+    
     columns: 
       - name: customer_id
         tests:
           - unique
           - not_null
   - name: stg_orders
+    description: testing the description
     columns: 
       - name: order_id
         tests:
