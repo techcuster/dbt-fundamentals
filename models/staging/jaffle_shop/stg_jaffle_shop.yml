@@ -2,6 +2,7 @@ version: 2
 
 models:
   - name: stg_customers
+    descritpion: this is test. 
     columns: 
       - name: customer_id
         tests:

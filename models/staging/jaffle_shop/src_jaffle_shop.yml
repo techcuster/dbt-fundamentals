@@ -6,5 +6,6 @@ sources:
       schema: db_demo 
       tables:
         - name: raw_customers 
+          descrtion: this is my test msg.
         - name: raw_orders 
                   
