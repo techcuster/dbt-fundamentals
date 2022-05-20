@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+    - name: jaffle_shop
+      database: automated-ray-340522
+      schema: db_demo 
+      tables:
+        - name: raw_customers 
+        - name: raw_orders 
+                  
