@@ -2,7 +2,6 @@ Version: 2
 
 models:
   - name: stg_customers
-    description: Staged order data from our jaffle shop app
     columns: 
       - name: customer_id
         tests:
